@@ -1,0 +1,7 @@
+print("wlecome to testing autmaton")
+print('i am going to learn python')
+print("i must learn programing")
+print('i must get job')
+print(2*2)
+print(2-2)
+print(2/2)

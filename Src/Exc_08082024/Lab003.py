@@ -1,0 +1,5 @@
+print('i need to be storng')
+print(1+1)
+print(9*5)
+print(9-5)
+print(8/2)

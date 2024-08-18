@@ -1,0 +1,15 @@
+#print("hi this is rajesh")
+#name = input("enter your name")
+#print(name)
+#a = 10
+#b = 15
+#sum = (a*b)
+#sum1 = (a-b)
+#sum2 = (a/b)
+#print(sum)
+#print(sum1)
+#print(sum2)
+A= int(input("enter value of a"))
+b = int(input("enter value of b"))
+sum = (A*b)
+print("the value of sum is" , sum)
